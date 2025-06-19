@@ -1,3 +1,7 @@
+https://github.com/mongodb-developer/GenAI-Showcase/blob/main/notebooks/agents/zero_to_hero_with_genai_with_mongodb_openai.ipynb
+
+
+
 ## MongoDB's GenAI Showcase
 
 Welcome to MongoDB's Generative AI Showcase Repository!
